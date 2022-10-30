@@ -1,0 +1,16 @@
+{
+"name": "secretofcleopatra",
+"theme": "secret of cleopatra",
+"version": "8.7.9",
+"description": "secret of cleopatra สมัครเว็บไซต์แทงบอลเว็บตรง ระบบออโต้ รับเงินเครดิตฟรี",
+"keywords": [
+"secret of cleopatra",
+"secret of cleopatra เครดิตฟรี",
+"secret of cleopatra ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/secretofcleopatra",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
